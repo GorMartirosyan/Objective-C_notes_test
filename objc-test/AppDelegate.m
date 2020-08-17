@@ -2,8 +2,8 @@
 //  AppDelegate.m
 //  objc-test
 //
-//  Created by Artur Hakobyan on 6/7/20.
-//  Copyright © 2020 Artur Hakobyan. All rights reserved.
+//  Created by Gor on 6/7/20.
+//  Copyright © 2020 user1. All rights reserved.
 //
 
 #import "AppDelegate.h"
